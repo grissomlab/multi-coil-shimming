@@ -1,0 +1,987 @@
+Info {BiotSavart 4.1 data file}
+
+Current {
+name {Current}
+supplies {
+	{ {Element 1 Supply} {0} }
+	{ {Element 2 Supply} {0} }
+	{ {Element 3 Supply} {0} }
+	{ {Element 4 Supply} {0} }
+	{ {Element 5 Supply} {0} }
+	{ {Element 6 Supply} {0} }
+	{ {Element 7 Supply} {0} }
+	{ {Element 8 Supply} {0} }
+	{ {Element 9 Supply} {0} }
+	{ {Element 10 Supply} {0} }
+	{ {Element 11 Supply} {0} }
+	{ {Element 12 Supply} {0} }
+	{ {Element 13 Supply} {0} }
+	{ {Element 14 Supply} {0} }
+	{ {Element 15 Supply} {0} }
+	{ {Element 16 Supply} {1} }
+}
+}
+
+Wire {
+name {Element 1}
+color 19660 45874 45874
+currentSupply Element 1 Supply
+wireDiameter 0
+winding 1
+path {start 0.00 13.50 7.25 cm 
+goto 0.38 13.49 7.25 cm 
+goto 0.75 13.47 7.25 cm 
+goto 1.13 13.44 7.25 cm 
+goto 1.50 13.39 7.25 cm 
+goto 1.88 13.33 7.25 cm 
+goto 2.25 13.26 7.25 cm 
+goto 2.62 13.17 7.25 cm 
+goto 2.98 13.08 7.25 cm 
+goto 3.35 12.96 7.25 cm 
+goto 3.71 12.84 7.25 cm 
+goto 4.06 12.70 7.25 cm 
+goto 4.42 12.55 7.25 cm 
+goto 4.77 12.39 7.25 cm 
+goto 5.11 12.22 7.25 cm 
+goto 5.45 12.03 7.25 cm 
+goto 5.78 11.83 7.25 cm 
+goto 6.11 11.62 7.25 cm 
+goto 6.43 11.40 7.25 cm 
+goto 6.75 11.17 7.25 cm 
+goto 7.05 10.92 7.25 cm 
+goto 7.35 10.67 7.25 cm 
+goto 7.65 10.40 7.25 cm 
+goto 7.94 10.13 7.25 cm 
+goto 8.21 9.84 7.25 cm 
+goto 8.49 9.55 7.25 cm 
+goto 8.49 9.55 0.25 cm 
+goto 8.21 9.84 0.25 cm 
+goto 7.94 10.13 0.25 cm 
+goto 7.65 10.40 0.25 cm 
+goto 7.35 10.67 0.25 cm 
+goto 7.05 10.92 0.25 cm 
+goto 6.75 11.17 0.25 cm 
+goto 6.43 11.40 0.25 cm 
+goto 6.11 11.62 0.25 cm 
+goto 5.78 11.83 0.25 cm 
+goto 5.45 12.03 0.25 cm 
+goto 5.11 12.22 0.25 cm 
+goto 4.77 12.39 0.25 cm 
+goto 4.42 12.55 0.25 cm 
+goto 4.06 12.70 0.25 cm 
+goto 3.71 12.84 0.25 cm 
+goto 3.35 12.96 0.25 cm 
+goto 2.98 13.08 0.25 cm 
+goto 2.62 13.17 0.25 cm 
+goto 2.25 13.26 0.25 cm 
+goto 1.88 13.33 0.25 cm 
+goto 1.50 13.39 0.25 cm 
+goto 1.13 13.44 0.25 cm 
+goto 0.75 13.47 0.25 cm 
+goto 0.38 13.49 0.25 cm 
+goto 0.00 13.50 0.25 cm 
+goto 0.00 13.50 7.25 cm}
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 2}
+color 19660 45874 45874
+currentSupply Element 2 Supply
+wireDiameter 0
+winding 1
+path {start 8.75 9.24 7.25 cm 
+goto 9.00 8.93 7.25 cm 
+goto 9.25 8.61 7.25 cm 
+goto 9.48 8.27 7.25 cm 
+goto 9.71 7.94 7.25 cm 
+goto 9.92 7.59 7.25 cm 
+goto 10.13 7.23 7.25 cm 
+goto 10.33 6.87 7.25 cm 
+goto 10.52 6.50 7.25 cm 
+goto 10.69 6.13 7.25 cm 
+goto 10.86 5.75 7.25 cm 
+goto 11.01 5.36 7.25 cm 
+goto 11.16 4.97 7.25 cm 
+goto 11.29 4.57 7.25 cm 
+goto 11.41 4.17 7.25 cm 
+goto 11.52 3.77 7.25 cm 
+goto 11.62 3.36 7.25 cm 
+goto 11.71 2.94 7.25 cm 
+goto 11.79 2.53 7.25 cm 
+goto 11.85 2.11 7.25 cm 
+goto 11.91 1.69 7.25 cm 
+goto 11.95 1.27 7.25 cm 
+goto 11.98 0.85 7.25 cm 
+goto 11.99 0.42 7.25 cm 
+goto 11.99 0.42 0.25 cm 
+goto 11.98 0.85 0.25 cm 
+goto 11.95 1.27 0.25 cm 
+goto 11.91 1.69 0.25 cm 
+goto 11.85 2.11 0.25 cm 
+goto 11.79 2.53 0.25 cm 
+goto 11.71 2.94 0.25 cm 
+goto 11.62 3.36 0.25 cm 
+goto 11.52 3.77 0.25 cm 
+goto 11.41 4.17 0.25 cm 
+goto 11.29 4.57 0.25 cm 
+goto 11.16 4.97 0.25 cm 
+goto 11.01 5.36 0.25 cm 
+goto 10.86 5.75 0.25 cm 
+goto 10.69 6.13 0.25 cm 
+goto 10.52 6.50 0.25 cm 
+goto 10.33 6.87 0.25 cm 
+goto 10.13 7.23 0.25 cm 
+goto 9.92 7.59 0.25 cm 
+goto 9.71 7.94 0.25 cm 
+goto 9.48 8.27 0.25 cm 
+goto 9.25 8.61 0.25 cm 
+goto 9.00 8.93 0.25 cm 
+goto 8.75 9.24 0.25 cm 
+goto 8.75 9.24 7.25 cm}
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 3}
+color 19660 45874 45874
+currentSupply Element 3 Supply
+wireDiameter 0
+winding 1
+path {start 12.00 -0.00 7.25 cm 
+goto 11.99 -0.42 7.25 cm 
+goto 11.98 -0.85 7.25 cm 
+goto 11.95 -1.27 7.25 cm 
+goto 11.91 -1.69 7.25 cm 
+goto 11.85 -2.11 7.25 cm 
+goto 11.79 -2.53 7.25 cm 
+goto 11.71 -2.94 7.25 cm 
+goto 11.62 -3.36 7.25 cm 
+goto 11.52 -3.77 7.25 cm 
+goto 11.41 -4.17 7.25 cm 
+goto 11.29 -4.57 7.25 cm 
+goto 11.16 -4.97 7.25 cm 
+goto 11.01 -5.36 7.25 cm 
+goto 10.86 -5.75 7.25 cm 
+goto 10.69 -6.13 7.25 cm 
+goto 10.52 -6.50 7.25 cm 
+goto 10.33 -6.87 7.25 cm 
+goto 10.13 -7.23 7.25 cm 
+goto 9.92 -7.59 7.25 cm 
+goto 9.71 -7.94 7.25 cm 
+goto 9.48 -8.27 7.25 cm 
+goto 9.25 -8.61 7.25 cm 
+goto 9.00 -8.93 7.25 cm 
+goto 9.00 -8.93 0.25 cm 
+goto 9.25 -8.61 0.25 cm 
+goto 9.48 -8.27 0.25 cm 
+goto 9.71 -7.94 0.25 cm 
+goto 9.92 -7.59 0.25 cm 
+goto 10.13 -7.23 0.25 cm 
+goto 10.33 -6.87 0.25 cm 
+goto 10.52 -6.50 0.25 cm 
+goto 10.69 -6.13 0.25 cm 
+goto 10.86 -5.75 0.25 cm 
+goto 11.01 -5.36 0.25 cm 
+goto 11.16 -4.97 0.25 cm 
+goto 11.29 -4.57 0.25 cm 
+goto 11.41 -4.17 0.25 cm 
+goto 11.52 -3.77 0.25 cm 
+goto 11.62 -3.36 0.25 cm 
+goto 11.71 -2.94 0.25 cm 
+goto 11.79 -2.53 0.25 cm 
+goto 11.85 -2.11 0.25 cm 
+goto 11.91 -1.69 0.25 cm 
+goto 11.95 -1.27 0.25 cm 
+goto 11.98 -0.85 0.25 cm 
+goto 11.99 -0.42 0.25 cm 
+goto 12.00 -0.00 0.25 cm 
+goto 12.00 -0.00 7.25 cm }
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 4}
+color 19660 45874 45874
+currentSupply Element 4 Supply
+wireDiameter 0
+winding 1
+path {start 8.75 -9.24 7.25 cm 
+goto 8.49 -9.55 7.25 cm 
+goto 8.21 -9.84 7.25 cm 
+goto 7.94 -10.13 7.25 cm 
+goto 7.65 -10.40 7.25 cm 
+goto 7.35 -10.67 7.25 cm 
+goto 7.05 -10.92 7.25 cm 
+goto 6.75 -11.17 7.25 cm 
+goto 6.43 -11.40 7.25 cm 
+goto 6.11 -11.62 7.25 cm 
+goto 5.78 -11.83 7.25 cm 
+goto 5.45 -12.03 7.25 cm 
+goto 5.11 -12.22 7.25 cm 
+goto 4.77 -12.39 7.25 cm 
+goto 4.42 -12.55 7.25 cm 
+goto 4.06 -12.70 7.25 cm 
+goto 3.71 -12.84 7.25 cm 
+goto 3.35 -12.96 7.25 cm 
+goto 2.98 -13.08 7.25 cm 
+goto 2.62 -13.17 7.25 cm 
+goto 2.25 -13.26 7.25 cm 
+goto 1.88 -13.33 7.25 cm 
+goto 1.50 -13.39 7.25 cm 
+goto 1.13 -13.44 7.25 cm 
+goto 0.75 -13.47 7.25 cm 
+goto 0.38 -13.49 7.25 cm 
+goto 0.38 -13.49 0.25 cm 
+goto 0.75 -13.47 0.25 cm 
+goto 1.13 -13.44 0.25 cm 
+goto 1.50 -13.39 0.25 cm 
+goto 1.88 -13.33 0.25 cm 
+goto 2.25 -13.26 0.25 cm 
+goto 2.62 -13.17 0.25 cm 
+goto 2.98 -13.08 0.25 cm 
+goto 3.35 -12.96 0.25 cm 
+goto 3.71 -12.84 0.25 cm 
+goto 4.06 -12.70 0.25 cm 
+goto 4.42 -12.55 0.25 cm 
+goto 4.77 -12.39 0.25 cm 
+goto 5.11 -12.22 0.25 cm 
+goto 5.45 -12.03 0.25 cm 
+goto 5.78 -11.83 0.25 cm 
+goto 6.11 -11.62 0.25 cm 
+goto 6.43 -11.40 0.25 cm 
+goto 6.75 -11.17 0.25 cm 
+goto 7.05 -10.92 0.25 cm 
+goto 7.35 -10.67 0.25 cm 
+goto 7.65 -10.40 0.25 cm 
+goto 7.94 -10.13 0.25 cm 
+goto 8.21 -9.84 0.25 cm 
+goto 8.49 -9.55 0.25 cm 
+goto 8.75 -9.24 0.25 cm 
+goto 8.75 -9.24 7.25 cm}
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 5}
+color 19660 45874 45874
+currentSupply Element 5 Supply
+wireDiameter 0
+winding 1
+path {start 0.00 -13.50 7.25 cm 
+goto -0.38 -13.49 7.25 cm 
+goto -0.75 -13.47 7.25 cm 
+goto -1.13 -13.44 7.25 cm 
+goto -1.50 -13.39 7.25 cm 
+goto -1.88 -13.33 7.25 cm 
+goto -2.25 -13.26 7.25 cm 
+goto -2.62 -13.17 7.25 cm 
+goto -2.98 -13.08 7.25 cm 
+goto -3.35 -12.96 7.25 cm 
+goto -3.71 -12.84 7.25 cm 
+goto -4.06 -12.70 7.25 cm 
+goto -4.42 -12.55 7.25 cm 
+goto -4.77 -12.39 7.25 cm 
+goto -5.11 -12.22 7.25 cm 
+goto -5.45 -12.03 7.25 cm 
+goto -5.78 -11.83 7.25 cm 
+goto -6.11 -11.62 7.25 cm 
+goto -6.43 -11.40 7.25 cm 
+goto -6.75 -11.17 7.25 cm 
+goto -7.05 -10.92 7.25 cm 
+goto -7.35 -10.67 7.25 cm 
+goto -7.65 -10.40 7.25 cm 
+goto -7.94 -10.13 7.25 cm 
+goto -8.21 -9.84 7.25 cm 
+goto -8.49 -9.55 7.25 cm 
+goto -8.49 -9.55 0.25 cm 
+goto -8.21 -9.84 0.25 cm 
+goto -7.94 -10.13 0.25 cm 
+goto -7.65 -10.40 0.25 cm 
+goto -7.35 -10.67 0.25 cm 
+goto -7.05 -10.92 0.25 cm 
+goto -6.75 -11.17 0.25 cm 
+goto -6.43 -11.40 0.25 cm 
+goto -6.11 -11.62 0.25 cm 
+goto -5.78 -11.83 0.25 cm 
+goto -5.45 -12.03 0.25 cm 
+goto -5.11 -12.22 0.25 cm 
+goto -4.77 -12.39 0.25 cm 
+goto -4.42 -12.55 0.25 cm 
+goto -4.06 -12.70 0.25 cm 
+goto -3.71 -12.84 0.25 cm 
+goto -3.35 -12.96 0.25 cm 
+goto -2.98 -13.08 0.25 cm 
+goto -2.62 -13.17 0.25 cm 
+goto -2.25 -13.26 0.25 cm 
+goto -1.88 -13.33 0.25 cm 
+goto -1.50 -13.39 0.25 cm 
+goto -1.13 -13.44 0.25 cm 
+goto -0.75 -13.47 0.25 cm 
+goto -0.38 -13.49 0.25 cm 
+goto 0.00 -13.50 0.25 cm 
+goto 0.00 -13.50 7.25 cm }
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 6}
+color 19660 45874 45874
+currentSupply Element 6 Supply
+wireDiameter 0
+winding 1
+path {start -8.75 -9.24 7.25 cm 
+goto -9.00 -8.93 7.25 cm 
+goto -9.25 -8.61 7.25 cm 
+goto -9.48 -8.27 7.25 cm 
+goto -9.71 -7.94 7.25 cm 
+goto -9.92 -7.59 7.25 cm 
+goto -10.13 -7.23 7.25 cm 
+goto -10.33 -6.87 7.25 cm 
+goto -10.52 -6.50 7.25 cm 
+goto -10.69 -6.13 7.25 cm 
+goto -10.86 -5.75 7.25 cm 
+goto -11.01 -5.36 7.25 cm 
+goto -11.16 -4.97 7.25 cm 
+goto -11.29 -4.57 7.25 cm 
+goto -11.41 -4.17 7.25 cm 
+goto -11.52 -3.77 7.25 cm 
+goto -11.62 -3.36 7.25 cm 
+goto -11.71 -2.94 7.25 cm 
+goto -11.79 -2.53 7.25 cm 
+goto -11.85 -2.11 7.25 cm 
+goto -11.91 -1.69 7.25 cm 
+goto -11.95 -1.27 7.25 cm 
+goto -11.98 -0.85 7.25 cm 
+goto -11.99 -0.42 7.25 cm 
+goto -11.99 -0.42 0.25 cm 
+goto -11.98 -0.85 0.25 cm 
+goto -11.95 -1.27 0.25 cm 
+goto -11.91 -1.69 0.25 cm 
+goto -11.85 -2.11 0.25 cm 
+goto -11.79 -2.53 0.25 cm 
+goto -11.71 -2.94 0.25 cm 
+goto -11.62 -3.36 0.25 cm 
+goto -11.52 -3.77 0.25 cm 
+goto -11.41 -4.17 0.25 cm 
+goto -11.29 -4.57 0.25 cm 
+goto -11.16 -4.97 0.25 cm 
+goto -11.01 -5.36 0.25 cm 
+goto -10.86 -5.75 0.25 cm 
+goto -10.69 -6.13 0.25 cm 
+goto -10.52 -6.50 0.25 cm 
+goto -10.33 -6.87 0.25 cm 
+goto -10.13 -7.23 0.25 cm 
+goto -9.92 -7.59 0.25 cm 
+goto -9.71 -7.94 0.25 cm 
+goto -9.48 -8.27 0.25 cm 
+goto -9.25 -8.61 0.25 cm 
+goto -9.00 -8.93 0.25 cm 
+goto -8.75 -9.24 0.25 cm 
+goto -8.75 -9.24 7.25 cm}
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 7}
+color 19660 45874 45874
+currentSupply Element 7 Supply
+wireDiameter 0
+winding 1
+path {start -12.00 0.00 7.25 cm 
+goto -11.99 0.42 7.25 cm 
+goto -11.98 0.85 7.25 cm 
+goto -11.95 1.27 7.25 cm 
+goto -11.91 1.69 7.25 cm 
+goto -11.85 2.11 7.25 cm 
+goto -11.79 2.53 7.25 cm 
+goto -11.71 2.94 7.25 cm 
+goto -11.62 3.36 7.25 cm 
+goto -11.52 3.77 7.25 cm 
+goto -11.41 4.17 7.25 cm 
+goto -11.29 4.57 7.25 cm 
+goto -11.16 4.97 7.25 cm 
+goto -11.01 5.36 7.25 cm 
+goto -10.86 5.75 7.25 cm 
+goto -10.69 6.13 7.25 cm 
+goto -10.52 6.50 7.25 cm 
+goto -10.33 6.87 7.25 cm 
+goto -10.13 7.23 7.25 cm 
+goto -9.92 7.59 7.25 cm 
+goto -9.71 7.94 7.25 cm 
+goto -9.48 8.27 7.25 cm 
+goto -9.25 8.61 7.25 cm 
+goto -9.00 8.93 7.25 cm 
+goto -9.00 8.93 0.25 cm 
+goto -9.25 8.61 0.25 cm 
+goto -9.48 8.27 0.25 cm 
+goto -9.71 7.94 0.25 cm 
+goto -9.92 7.59 0.25 cm 
+goto -10.13 7.23 0.25 cm 
+goto -10.33 6.87 0.25 cm 
+goto -10.52 6.50 0.25 cm 
+goto -10.69 6.13 0.25 cm 
+goto -10.86 5.75 0.25 cm 
+goto -11.01 5.36 0.25 cm 
+goto -11.16 4.97 0.25 cm 
+goto -11.29 4.57 0.25 cm 
+goto -11.41 4.17 0.25 cm 
+goto -11.52 3.77 0.25 cm 
+goto -11.62 3.36 0.25 cm 
+goto -11.71 2.94 0.25 cm 
+goto -11.79 2.53 0.25 cm 
+goto -11.85 2.11 0.25 cm 
+goto -11.91 1.69 0.25 cm 
+goto -11.95 1.27 0.25 cm 
+goto -11.98 0.85 0.25 cm 
+goto -11.99 0.42 0.25 cm 
+goto -12.00 0.00 0.25 cm 
+goto -12.00 0.00 7.25 cm}
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 8}
+color 19660 45874 45874
+currentSupply Element 8 Supply
+wireDiameter 0
+winding 1
+path {start -8.75 9.24 7.25 cm 
+goto -8.49 9.55 7.25 cm 
+goto -8.21 9.84 7.25 cm 
+goto -7.94 10.13 7.25 cm 
+goto -7.65 10.40 7.25 cm 
+goto -7.35 10.67 7.25 cm 
+goto -7.05 10.92 7.25 cm 
+goto -6.75 11.17 7.25 cm 
+goto -6.43 11.40 7.25 cm 
+goto -6.11 11.62 7.25 cm 
+goto -5.78 11.83 7.25 cm 
+goto -5.45 12.03 7.25 cm 
+goto -5.11 12.22 7.25 cm 
+goto -4.77 12.39 7.25 cm 
+goto -4.42 12.55 7.25 cm 
+goto -4.06 12.70 7.25 cm 
+goto -3.71 12.84 7.25 cm 
+goto -3.35 12.96 7.25 cm 
+goto -2.98 13.08 7.25 cm 
+goto -2.62 13.17 7.25 cm 
+goto -2.25 13.26 7.25 cm 
+goto -1.88 13.33 7.25 cm 
+goto -1.50 13.39 7.25 cm 
+goto -1.13 13.44 7.25 cm 
+goto -0.75 13.47 7.25 cm 
+goto -0.38 13.49 7.25 cm 
+goto -0.38 13.49 0.25 cm 
+goto -0.75 13.47 0.25 cm 
+goto -1.13 13.44 0.25 cm 
+goto -1.50 13.39 0.25 cm 
+goto -1.88 13.33 0.25 cm 
+goto -2.25 13.26 0.25 cm 
+goto -2.62 13.17 0.25 cm 
+goto -2.98 13.08 0.25 cm 
+goto -3.35 12.96 0.25 cm 
+goto -3.71 12.84 0.25 cm 
+goto -4.06 12.70 0.25 cm 
+goto -4.42 12.55 0.25 cm 
+goto -4.77 12.39 0.25 cm 
+goto -5.11 12.22 0.25 cm 
+goto -5.45 12.03 0.25 cm 
+goto -5.78 11.83 0.25 cm 
+goto -6.11 11.62 0.25 cm 
+goto -6.43 11.40 0.25 cm 
+goto -6.75 11.17 0.25 cm 
+goto -7.05 10.92 0.25 cm 
+goto -7.35 10.67 0.25 cm 
+goto -7.65 10.40 0.25 cm 
+goto -7.94 10.13 0.25 cm 
+goto -8.21 9.84 0.25 cm 
+goto -8.49 9.55 0.25 cm 
+goto -8.75 9.24 0.25 cm 
+goto -8.75 9.24 7.25 cm }
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 9}
+color 19660 45874 45874
+currentSupply Element 9 Supply
+wireDiameter 0
+winding 1
+path {start 4.77 12.39 -0.25 cm 
+goto 5.11 12.22 -0.25 cm 
+goto 5.45 12.03 -0.25 cm 
+goto 5.78 11.83 -0.25 cm 
+goto 6.11 11.62 -0.25 cm 
+goto 6.43 11.40 -0.25 cm 
+goto 6.75 11.17 -0.25 cm 
+goto 7.05 10.92 -0.25 cm 
+goto 7.35 10.67 -0.25 cm 
+goto 7.65 10.40 -0.25 cm 
+goto 7.94 10.13 -0.25 cm 
+goto 8.21 9.84 -0.25 cm 
+goto 8.49 9.55 -0.25 cm 
+goto 8.75 9.24 -0.25 cm 
+goto 9.00 8.93 -0.25 cm 
+goto 9.25 8.61 -0.25 cm 
+goto 9.48 8.27 -0.25 cm 
+goto 9.71 7.94 -0.25 cm 
+goto 9.92 7.59 -0.25 cm 
+goto 10.13 7.23 -0.25 cm 
+goto 10.33 6.87 -0.25 cm 
+goto 10.52 6.50 -0.25 cm 
+goto 10.69 6.13 -0.25 cm 
+goto 10.86 5.75 -0.25 cm 
+goto 10.86 5.75 -7.25 cm 
+goto 10.69 6.13 -7.25 cm 
+goto 10.52 6.50 -7.25 cm 
+goto 10.33 6.87 -7.25 cm 
+goto 10.13 7.23 -7.25 cm 
+goto 9.92 7.59 -7.25 cm 
+goto 9.71 7.94 -7.25 cm 
+goto 9.48 8.27 -7.25 cm 
+goto 9.25 8.61 -7.25 cm 
+goto 9.00 8.93 -7.25 cm 
+goto 8.75 9.24 -7.25 cm 
+goto 8.49 9.55 -7.25 cm 
+goto 8.21 9.84 -7.25 cm 
+goto 7.94 10.13 -7.25 cm 
+goto 7.65 10.40 -7.25 cm 
+goto 7.35 10.67 -7.25 cm 
+goto 7.05 10.92 -7.25 cm 
+goto 6.75 11.17 -7.25 cm 
+goto 6.43 11.40 -7.25 cm 
+goto 6.11 11.62 -7.25 cm 
+goto 5.78 11.83 -7.25 cm 
+goto 5.45 12.03 -7.25 cm 
+goto 5.11 12.22 -7.25 cm 
+goto 4.77 12.39 -7.25 cm 
+goto 4.77 12.39 -0.25 cm }
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 10}
+color 19660 45874 45874
+currentSupply Element 10 Supply
+wireDiameter 0
+winding 1
+path {start 11.16 4.97 -0.25 cm 
+goto 11.29 4.57 -0.25 cm 
+goto 11.41 4.17 -0.25 cm 
+goto 11.52 3.77 -0.25 cm 
+goto 11.62 3.36 -0.25 cm 
+goto 11.71 2.94 -0.25 cm 
+goto 11.79 2.53 -0.25 cm 
+goto 11.85 2.11 -0.25 cm 
+goto 11.91 1.69 -0.25 cm 
+goto 11.95 1.27 -0.25 cm 
+goto 11.98 0.85 -0.25 cm 
+goto 11.99 0.42 -0.25 cm 
+goto 12.00 -0.00 -0.25 cm 
+goto 11.99 -0.42 -0.25 cm 
+goto 11.98 -0.85 -0.25 cm 
+goto 11.95 -1.27 -0.25 cm 
+goto 11.91 -1.69 -0.25 cm 
+goto 11.85 -2.11 -0.25 cm 
+goto 11.79 -2.53 -0.25 cm 
+goto 11.71 -2.94 -0.25 cm 
+goto 11.62 -3.36 -0.25 cm 
+goto 11.52 -3.77 -0.25 cm 
+goto 11.41 -4.17 -0.25 cm 
+goto 11.41 -4.17 -7.25 cm 
+goto 11.52 -3.77 -7.25 cm 
+goto 11.62 -3.36 -7.25 cm 
+goto 11.71 -2.94 -7.25 cm 
+goto 11.79 -2.53 -7.25 cm 
+goto 11.85 -2.11 -7.25 cm 
+goto 11.91 -1.69 -7.25 cm 
+goto 11.95 -1.27 -7.25 cm 
+goto 11.98 -0.85 -7.25 cm 
+goto 11.99 -0.42 -7.25 cm 
+goto 12.00 -0.00 -7.25 cm 
+goto 11.99 0.42 -7.25 cm 
+goto 11.98 0.85 -7.25 cm 
+goto 11.95 1.27 -7.25 cm 
+goto 11.91 1.69 -7.25 cm 
+goto 11.85 2.11 -7.25 cm 
+goto 11.79 2.53 -7.25 cm 
+goto 11.71 2.94 -7.25 cm 
+goto 11.62 3.36 -7.25 cm 
+goto 11.52 3.77 -7.25 cm 
+goto 11.41 4.17 -7.25 cm 
+goto 11.29 4.57 -7.25 cm 
+goto 11.16 4.97 -7.25 cm 
+goto 11.16 4.97 -0.25 cm}
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 11}
+color 19660 45874 45874
+currentSupply Element 11 Supply
+wireDiameter 0
+winding 1
+path {start 11.29 -4.57 -0.25 cm 
+goto 11.16 -4.97 -0.25 cm 
+goto 11.01 -5.36 -0.25 cm 
+goto 10.86 -5.75 -0.25 cm 
+goto 10.69 -6.13 -0.25 cm 
+goto 10.52 -6.50 -0.25 cm 
+goto 10.33 -6.87 -0.25 cm 
+goto 10.13 -7.23 -0.25 cm 
+goto 9.92 -7.59 -0.25 cm 
+goto 9.71 -7.94 -0.25 cm 
+goto 9.48 -8.27 -0.25 cm 
+goto 9.25 -8.61 -0.25 cm 
+goto 9.00 -8.93 -0.25 cm 
+goto 8.75 -9.24 -0.25 cm 
+goto 8.49 -9.55 -0.25 cm 
+goto 8.21 -9.84 -0.25 cm 
+goto 7.94 -10.13 -0.25 cm 
+goto 7.65 -10.40 -0.25 cm 
+goto 7.35 -10.67 -0.25 cm 
+goto 7.05 -10.92 -0.25 cm 
+goto 6.75 -11.17 -0.25 cm 
+goto 6.43 -11.40 -0.25 cm 
+goto 6.11 -11.62 -0.25 cm 
+goto 5.78 -11.83 -0.25 cm 
+goto 5.45 -12.03 -0.25 cm 
+goto 5.45 -12.03 -7.25 cm 
+goto 5.78 -11.83 -7.25 cm 
+goto 6.11 -11.62 -7.25 cm 
+goto 6.43 -11.40 -7.25 cm 
+goto 6.75 -11.17 -7.25 cm 
+goto 7.05 -10.92 -7.25 cm 
+goto 7.35 -10.67 -7.25 cm 
+goto 7.65 -10.40 -7.25 cm 
+goto 7.94 -10.13 -7.25 cm 
+goto 8.21 -9.84 -7.25 cm 
+goto 8.49 -9.55 -7.25 cm 
+goto 8.75 -9.24 -7.25 cm 
+goto 9.00 -8.93 -7.25 cm 
+goto 9.25 -8.61 -7.25 cm 
+goto 9.48 -8.27 -7.25 cm 
+goto 9.71 -7.94 -7.25 cm 
+goto 9.92 -7.59 -7.25 cm 
+goto 10.13 -7.23 -7.25 cm 
+goto 10.33 -6.87 -7.25 cm 
+goto 10.52 -6.50 -7.25 cm 
+goto 10.69 -6.13 -7.25 cm 
+goto 10.86 -5.75 -7.25 cm 
+goto 11.01 -5.36 -7.25 cm 
+goto 11.16 -4.97 -7.25 cm 
+goto 11.29 -4.57 -7.25 cm 
+goto 11.29 -4.57 -0.25 cm}
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 12}
+color 19660 45874 45874
+currentSupply Element 12 Supply
+wireDiameter 0
+winding 1
+path {start 5.11 -12.22 -0.25 cm 
+goto 4.77 -12.39 -0.25 cm 
+goto 4.42 -12.55 -0.25 cm 
+goto 4.06 -12.70 -0.25 cm 
+goto 3.71 -12.84 -0.25 cm 
+goto 3.35 -12.96 -0.25 cm 
+goto 2.98 -13.08 -0.25 cm 
+goto 2.62 -13.17 -0.25 cm 
+goto 2.25 -13.26 -0.25 cm 
+goto 1.88 -13.33 -0.25 cm 
+goto 1.50 -13.39 -0.25 cm 
+goto 1.13 -13.44 -0.25 cm 
+goto 0.75 -13.47 -0.25 cm 
+goto 0.38 -13.49 -0.25 cm 
+goto 0.00 -13.50 -0.25 cm 
+goto -0.38 -13.49 -0.25 cm 
+goto -0.75 -13.47 -0.25 cm 
+goto -1.13 -13.44 -0.25 cm 
+goto -1.50 -13.39 -0.25 cm 
+goto -1.88 -13.33 -0.25 cm 
+goto -2.25 -13.26 -0.25 cm 
+goto -2.62 -13.17 -0.25 cm 
+goto -2.98 -13.08 -0.25 cm 
+goto -3.35 -12.96 -0.25 cm 
+goto -3.71 -12.84 -0.25 cm 
+goto -4.06 -12.70 -0.25 cm 
+goto -4.06 -12.70 -7.25 cm 
+goto -3.71 -12.84 -7.25 cm 
+goto -3.35 -12.96 -7.25 cm 
+goto -2.98 -13.08 -7.25 cm 
+goto -2.62 -13.17 -7.25 cm 
+goto -2.25 -13.26 -7.25 cm 
+goto -1.88 -13.33 -7.25 cm 
+goto -1.50 -13.39 -7.25 cm 
+goto -1.13 -13.44 -7.25 cm 
+goto -0.75 -13.47 -7.25 cm 
+goto -0.38 -13.49 -7.25 cm 
+goto 0.00 -13.50 -7.25 cm 
+goto 0.38 -13.49 -7.25 cm 
+goto 0.75 -13.47 -7.25 cm 
+goto 1.13 -13.44 -7.25 cm 
+goto 1.50 -13.39 -7.25 cm 
+goto 1.88 -13.33 -7.25 cm 
+goto 2.25 -13.26 -7.25 cm 
+goto 2.62 -13.17 -7.25 cm 
+goto 2.98 -13.08 -7.25 cm 
+goto 3.35 -12.96 -7.25 cm 
+goto 3.71 -12.84 -7.25 cm 
+goto 4.06 -12.70 -7.25 cm 
+goto 4.42 -12.55 -7.25 cm 
+goto 4.77 -12.39 -7.25 cm 
+goto 5.11 -12.22 -7.25 cm 
+goto 5.11 -12.22 -0.25 cm}
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 13}
+color 19660 45874 45874
+currentSupply Element 13 Supply
+wireDiameter 0
+winding 1
+path {start -4.77 -12.39 -0.25 cm 
+goto -5.11 -12.22 -0.25 cm 
+goto -5.45 -12.03 -0.25 cm 
+goto -5.78 -11.83 -0.25 cm 
+goto -6.11 -11.62 -0.25 cm 
+goto -6.43 -11.40 -0.25 cm 
+goto -6.75 -11.17 -0.25 cm 
+goto -7.05 -10.92 -0.25 cm 
+goto -7.35 -10.67 -0.25 cm 
+goto -7.65 -10.40 -0.25 cm 
+goto -7.94 -10.13 -0.25 cm 
+goto -8.21 -9.84 -0.25 cm 
+goto -8.49 -9.55 -0.25 cm 
+goto -8.75 -9.24 -0.25 cm 
+goto -9.00 -8.93 -0.25 cm 
+goto -9.25 -8.61 -0.25 cm 
+goto -9.48 -8.27 -0.25 cm 
+goto -9.71 -7.94 -0.25 cm 
+goto -9.92 -7.59 -0.25 cm 
+goto -10.13 -7.23 -0.25 cm 
+goto -10.33 -6.87 -0.25 cm 
+goto -10.52 -6.50 -0.25 cm 
+goto -10.69 -6.13 -0.25 cm 
+goto -10.86 -5.75 -0.25 cm 
+goto -10.86 -5.75 -7.25 cm 
+goto -10.69 -6.13 -7.25 cm 
+goto -10.52 -6.50 -7.25 cm 
+goto -10.33 -6.87 -7.25 cm 
+goto -10.13 -7.23 -7.25 cm 
+goto -9.92 -7.59 -7.25 cm 
+goto -9.71 -7.94 -7.25 cm 
+goto -9.48 -8.27 -7.25 cm 
+goto -9.25 -8.61 -7.25 cm 
+goto -9.00 -8.93 -7.25 cm 
+goto -8.75 -9.24 -7.25 cm 
+goto -8.49 -9.55 -7.25 cm 
+goto -8.21 -9.84 -7.25 cm 
+goto -7.94 -10.13 -7.25 cm 
+goto -7.65 -10.40 -7.25 cm 
+goto -7.35 -10.67 -7.25 cm 
+goto -7.05 -10.92 -7.25 cm 
+goto -6.75 -11.17 -7.25 cm 
+goto -6.43 -11.40 -7.25 cm 
+goto -6.11 -11.62 -7.25 cm 
+goto -5.78 -11.83 -7.25 cm 
+goto -5.45 -12.03 -7.25 cm 
+goto -5.11 -12.22 -7.25 cm 
+goto -4.77 -12.39 -7.25 cm 
+goto -4.77 -12.39 -0.25 cm}
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 14}
+color 19660 45874 45874
+currentSupply Element 14 Supply
+wireDiameter 0
+winding 1
+path {start -11.16 -4.97 -0.25 cm 
+goto -11.29 -4.57 -0.25 cm 
+goto -11.41 -4.17 -0.25 cm 
+goto -11.52 -3.77 -0.25 cm 
+goto -11.62 -3.36 -0.25 cm 
+goto -11.71 -2.94 -0.25 cm 
+goto -11.79 -2.53 -0.25 cm 
+goto -11.85 -2.11 -0.25 cm 
+goto -11.91 -1.69 -0.25 cm 
+goto -11.95 -1.27 -0.25 cm 
+goto -11.98 -0.85 -0.25 cm 
+goto -11.99 -0.42 -0.25 cm 
+goto -12.00 0.00 -0.25 cm 
+goto -11.99 0.42 -0.25 cm 
+goto -11.98 0.85 -0.25 cm 
+goto -11.95 1.27 -0.25 cm 
+goto -11.91 1.69 -0.25 cm 
+goto -11.85 2.11 -0.25 cm 
+goto -11.79 2.53 -0.25 cm 
+goto -11.71 2.94 -0.25 cm 
+goto -11.62 3.36 -0.25 cm 
+goto -11.52 3.77 -0.25 cm 
+goto -11.41 4.17 -0.25 cm 
+goto -11.41 4.17 -7.25 cm 
+goto -11.52 3.77 -7.25 cm 
+goto -11.62 3.36 -7.25 cm 
+goto -11.71 2.94 -7.25 cm 
+goto -11.79 2.53 -7.25 cm 
+goto -11.85 2.11 -7.25 cm 
+goto -11.91 1.69 -7.25 cm 
+goto -11.95 1.27 -7.25 cm 
+goto -11.98 0.85 -7.25 cm 
+goto -11.99 0.42 -7.25 cm 
+goto -12.00 0.00 -7.25 cm 
+goto -11.99 -0.42 -7.25 cm 
+goto -11.98 -0.85 -7.25 cm 
+goto -11.95 -1.27 -7.25 cm 
+goto -11.91 -1.69 -7.25 cm 
+goto -11.85 -2.11 -7.25 cm 
+goto -11.79 -2.53 -7.25 cm 
+goto -11.71 -2.94 -7.25 cm 
+goto -11.62 -3.36 -7.25 cm 
+goto -11.52 -3.77 -7.25 cm 
+goto -11.41 -4.17 -7.25 cm 
+goto -11.29 -4.57 -7.25 cm 
+goto -11.16 -4.97 -7.25 cm 
+goto -11.16 -4.97 -0.25 cm }
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 15}
+color 19660 45874 45874
+currentSupply Element 15 Supply
+wireDiameter 0
+winding 1
+path {start -11.29 4.57 -0.25 cm 
+goto -11.16 4.97 -0.25 cm 
+goto -11.01 5.36 -0.25 cm 
+goto -10.86 5.75 -0.25 cm 
+goto -10.69 6.13 -0.25 cm 
+goto -10.52 6.50 -0.25 cm 
+goto -10.33 6.87 -0.25 cm 
+goto -10.13 7.23 -0.25 cm 
+goto -9.92 7.59 -0.25 cm 
+goto -9.71 7.94 -0.25 cm 
+goto -9.48 8.27 -0.25 cm 
+goto -9.25 8.61 -0.25 cm 
+goto -9.00 8.93 -0.25 cm 
+goto -8.75 9.24 -0.25 cm 
+goto -8.49 9.55 -0.25 cm 
+goto -8.21 9.84 -0.25 cm 
+goto -7.94 10.13 -0.25 cm 
+goto -7.65 10.40 -0.25 cm 
+goto -7.35 10.67 -0.25 cm 
+goto -7.05 10.92 -0.25 cm 
+goto -6.75 11.17 -0.25 cm 
+goto -6.43 11.40 -0.25 cm 
+goto -6.11 11.62 -0.25 cm 
+goto -5.78 11.83 -0.25 cm 
+goto -5.45 12.03 -0.25 cm 
+goto -5.45 12.03 -7.25 cm 
+goto -5.78 11.83 -7.25 cm 
+goto -6.11 11.62 -7.25 cm 
+goto -6.43 11.40 -7.25 cm 
+goto -6.75 11.17 -7.25 cm 
+goto -7.05 10.92 -7.25 cm 
+goto -7.35 10.67 -7.25 cm 
+goto -7.65 10.40 -7.25 cm 
+goto -7.94 10.13 -7.25 cm 
+goto -8.21 9.84 -7.25 cm 
+goto -8.49 9.55 -7.25 cm 
+goto -8.75 9.24 -7.25 cm 
+goto -9.00 8.93 -7.25 cm 
+goto -9.25 8.61 -7.25 cm 
+goto -9.48 8.27 -7.25 cm 
+goto -9.71 7.94 -7.25 cm 
+goto -9.92 7.59 -7.25 cm 
+goto -10.13 7.23 -7.25 cm 
+goto -10.33 6.87 -7.25 cm 
+goto -10.52 6.50 -7.25 cm 
+goto -10.69 6.13 -7.25 cm 
+goto -10.86 5.75 -7.25 cm 
+goto -11.01 5.36 -7.25 cm 
+goto -11.16 4.97 -7.25 cm 
+goto -11.29 4.57 -7.25 cm 
+goto -11.29 4.57 -0.25 cm}
+fluxPathStep 0.1
+}
+
+Wire {
+name {Element 16}
+color 19660 45874 45874
+currentSupply Element 16 Supply
+wireDiameter 0
+winding 1
+path {start -5.11 12.22 -0.25 cm 
+goto -4.77 12.39 -0.25 cm 
+goto -4.42 12.55 -0.25 cm 
+goto -4.06 12.70 -0.25 cm 
+goto -3.71 12.84 -0.25 cm 
+goto -3.35 12.96 -0.25 cm 
+goto -2.98 13.08 -0.25 cm 
+goto -2.62 13.17 -0.25 cm 
+goto -2.25 13.26 -0.25 cm 
+goto -1.88 13.33 -0.25 cm 
+goto -1.50 13.39 -0.25 cm 
+goto -1.13 13.44 -0.25 cm 
+goto -0.75 13.47 -0.25 cm 
+goto -0.38 13.49 -0.25 cm 
+goto -0.00 13.50 -0.25 cm 
+goto 0.38 13.49 -0.25 cm 
+goto 0.75 13.47 -0.25 cm 
+goto 1.13 13.44 -0.25 cm 
+goto 1.50 13.39 -0.25 cm 
+goto 1.88 13.33 -0.25 cm 
+goto 2.25 13.26 -0.25 cm 
+goto 2.62 13.17 -0.25 cm 
+goto 2.98 13.08 -0.25 cm 
+goto 3.35 12.96 -0.25 cm 
+goto 3.71 12.84 -0.25 cm 
+goto 4.06 12.70 -0.25 cm 
+goto 4.06 12.70 -7.25 cm 
+goto 3.71 12.84 -7.25 cm 
+goto 3.35 12.96 -7.25 cm 
+goto 2.98 13.08 -7.25 cm 
+goto 2.62 13.17 -7.25 cm 
+goto 2.25 13.26 -7.25 cm 
+goto 1.88 13.33 -7.25 cm 
+goto 1.50 13.39 -7.25 cm 
+goto 1.13 13.44 -7.25 cm 
+goto 0.75 13.47 -7.25 cm 
+goto 0.38 13.49 -7.25 cm 
+goto -0.00 13.50 -7.25 cm 
+goto -0.38 13.49 -7.25 cm 
+goto -0.75 13.47 -7.25 cm 
+goto -1.13 13.44 -7.25 cm 
+goto -1.50 13.39 -7.25 cm 
+goto -1.88 13.33 -7.25 cm 
+goto -2.25 13.26 -7.25 cm 
+goto -2.62 13.17 -7.25 cm 
+goto -2.98 13.08 -7.25 cm 
+goto -3.35 12.96 -7.25 cm 
+goto -3.71 12.84 -7.25 cm 
+goto -4.06 12.70 -7.25 cm 
+goto -4.42 12.55 -7.25 cm 
+goto -4.77 12.39 -7.25 cm 
+goto -5.11 12.22 -7.25 cm 
+goto -5.11 12.22 -0.25 cm}
+fluxPathStep 0.1
+}
+
+Volumetric {
+name {Volume}
+visible 0
+color 65535 65535 0
+grid 64 64 64
+sizeX 0.3
+sizeY 0.3
+sizeZ 0.3
+drawGrid 1
+drawFrame 0
+}

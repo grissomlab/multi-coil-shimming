@@ -1,0 +1,32 @@
+Info {BiotSavart 4.1 data file}
+
+Current {
+name {Current}
+supplies {
+	{ {0} {1} }
+}
+}
+
+Loop {
+name {test_loop}
+color 19660 45874 45874
+positionZ 20 mm
+currentSupply 0
+wireDiameter 2 mm
+winding 0
+loops {
+	{{40 mm} {0} {3}}
+}
+fluxPhiSteps 16
+}
+
+Volumetric {
+name {a Volumetric}
+color 65535 65535 0
+grid 50 50 50
+sizeX 170 mm
+sizeY 170 mm
+sizeZ 170 mm
+drawGrid 0
+drawFrame 1
+}

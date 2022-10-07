@@ -1,0 +1,71 @@
+Info {BiotSavart 4.1 data file}
+
+Current {
+name {Current}
+supplies {
+	{ {0} {1} }
+}
+}
+
+Loop {
+name {right}
+color 19660 45874 45874
+positionX 66.675 mm
+eulerPhi 90
+eulerTheta 90
+currentSupply 0
+wireDiameter 3mm
+winding 1
+nPhi 30
+loops {
+	{{31.75mm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {left}
+color 19660 45874 45874
+positionX -66.675 mm
+eulerPhi 90
+eulerTheta 90
+currentSupply 0
+currentScale 0
+wireDiameter 3mm
+winding 1
+nPhi 30
+loops {
+	{{31.75mm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Volumetric {
+name {a Volumetric}
+color 65535 65535 0
+grid 40 40 40
+sizeX 70 mm
+sizeY 160 mm
+sizeZ 160 mm
+drawGrid 0
+drawFrame 1
+}
+
+Loop {
+name {top}
+color 19660 45874 45874
+positionZ 50 mm
+eulerPsi 90
+currentSupply 0
+currentScale 0
+wireDiameter 3 mm
+winding 1
+nPhi 30
+loops {
+	{{38.1mm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}

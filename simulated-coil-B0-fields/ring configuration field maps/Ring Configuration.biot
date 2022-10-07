@@ -1,0 +1,216 @@
+Info {BiotSavart 4.1 data file}
+
+Current {
+name {Current}
+supplies {
+	{ {Element_1} {1} }
+	{ {Element_2} {1} }
+	{ {Element_3} {1} }
+	{ {Element_4} {1} }
+	{ {Element_5} {1} }
+	{ {Element_6} {1} }
+	{ {Element_7} {1} }
+	{ {Element_8} {1} }
+}
+}
+
+Loop {
+name {Element 1}
+color 19660 45874 45874
+positionY 0.05
+positionZ 0.1125
+eulerTheta 90
+currentSupply Element_1
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.0425} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 2}
+color 19660 45874 45874
+positionX 0.0795
+positionY 0.05
+positionZ 0.0795
+eulerTheta 90
+currentSupply Element_2
+wireDiameter 5e-3
+winding 1
+nPhi 64
+loops {
+	{{0.0425} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 3}
+color 19660 45874 45874
+positionX 0.1125
+positionY 0.05
+eulerTheta 90
+currentSupply Element_3
+wireDiameter 5e-3
+winding 1
+nPhi 64
+loops {
+	{{0.0425} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 4}
+color 19660 45874 45874
+positionX 0.0795
+positionY 0.05
+positionZ -0.0795
+eulerTheta 90
+currentSupply Element_4
+wireDiameter 5e-3
+winding 1
+nPhi 64
+loops {
+	{{0.0425} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 5}
+color 19660 45874 45874
+positionY 0.05
+positionZ -0.1125
+eulerTheta 90
+currentSupply Element_5
+wireDiameter 5e-3
+winding 1
+nPhi 64
+loops {
+	{{0.0425} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 6}
+color 19660 45874 45874
+positionX -0.0795
+positionY 0.05
+positionZ -0.0795
+eulerTheta 90
+currentSupply Element_6
+wireDiameter 5e-3
+winding 1
+nPhi 64
+loops {
+	{{0.0425} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 7}
+color 19660 45874 45874
+positionX -0.1125
+positionY 0.05
+eulerTheta 90
+currentSupply Element_7
+wireDiameter 5e-3
+winding 1
+nPhi 64
+loops {
+	{{0.0425} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 8}
+color 19660 45874 45874
+positionX -0.0795
+positionY 0.05
+positionZ 0.0795
+eulerTheta 90
+currentSupply Element_8
+wireDiameter 5e-3
+winding 1
+nPhi 64
+loops {
+	{{0.0425} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Planar {
+name {Transverse Plane}
+color 65535 65535 0
+positionX -0.2
+positionY -0.2
+grid 30 30
+uX 0.4
+uY 0
+uZ 0
+vX 0
+vY 0.4
+vZ 0
+plot B
+apartWindow 1
+drawGrid 1
+drawContour 1
+drawFrame 1
+}
+
+Planar {
+name {Sagittal Plane}
+color 65535 65535 0
+positionY -0.2
+positionZ -0.2
+grid 30 30
+uX 0
+uY 0.4
+uZ 0
+vX 0
+vY 0
+vZ 0.4
+plot B
+apartWindow 1
+drawGrid 1
+drawContour 1
+drawFrame 1
+}
+
+Planar {
+name {Coronal Plane}
+visible 0
+color 65535 65535 0
+positionX -0.2
+positionZ -0.2
+grid 30 30
+uX 0.4
+uY 0
+uZ 0
+vX 0
+vY 0
+vZ 0.4
+plot B
+apartWindow 1
+drawGrid 1
+drawContour 1
+drawFrame 1
+}
+
+Volumetric {
+name {Volume}
+color 65535 65535 0
+grid 50 50 50
+sizeX 0.25
+sizeY 0.25
+sizeZ 0.25
+drawGrid 0
+drawFrame 1
+}

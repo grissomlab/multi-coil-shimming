@@ -1,0 +1,195 @@
+Info {BiotSavart 4.1 data file}
+
+Current {
+name {Current}
+supplies {
+	{ {top} {0} }
+	{ {1} {0} }
+	{ {2} {0} }
+	{ {3} {0} }
+	{ {4} {0} }
+	{ {5} {0} }
+	{ {6} {0} }
+	{ {7} {0} }
+	{ {8} {1} }
+}
+}
+
+Loop {
+name {7}
+color 19660 45874 45874
+positionX 65 mm
+positionY 20 mm
+positionZ -10 mm
+eulerPhi 90
+eulerTheta 90
+currentSupply 7
+wireDiameter 3mm
+winding 1
+nPhi 30
+loops {
+	{{20 mm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {5}
+color 19660 45874 45874
+positionX -65 mm
+positionY 20 mm
+positionZ -10 mm
+eulerPhi 90
+eulerTheta 90
+currentSupply 5
+wireDiameter 3mm
+winding 1
+nPhi 30
+loops {
+	{{20mm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {top}
+color 19660 45874 45874
+positionZ 50 mm
+currentSupply top
+wireDiameter 3 mm
+winding 3
+nPhi 30
+loops {
+	{{38.1mm} {0} {3}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {6}
+color 19660 45874 45874
+positionX -65 mm
+positionY -20 mm
+positionZ -10 mm
+eulerPhi 90
+eulerTheta 90
+currentSupply 6
+wireDiameter 3 mm
+winding 1
+nPhi 30
+loops {
+	{{20 mm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {8}
+color 19660 45874 45874
+positionX 65 mm
+positionY -20 mm
+positionZ -10 mm
+eulerPhi 90
+eulerTheta 90
+currentSupply 8
+wireDiameter 3mm
+winding 1
+nPhi 30
+loops {
+	{{20 mm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {3}
+color 19660 45874 45874
+positionX 55 mm
+positionY 20 mm
+positionZ 30 mm
+eulerPhi 90
+eulerTheta 60
+currentSupply 3
+wireDiameter 3mm
+winding 1
+nPhi 30
+loops {
+	{{20 mm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {4}
+color 19660 45874 45874
+positionX 55 mm
+positionY -20 mm
+positionZ 30 mm
+eulerPhi 90
+eulerTheta 60
+currentSupply 4
+wireDiameter 3mm
+winding 1
+nPhi 30
+loops {
+	{{20 mm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {1}
+color 19660 45874 45874
+positionX -55 mm
+positionY 20 mm
+positionZ 30 mm
+eulerPhi 90
+eulerTheta -60
+currentSupply 1
+wireDiameter 3mm
+winding 1
+nPhi 30
+loops {
+	{{20 mm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {2}
+color 19660 45874 45874
+positionX -55 mm
+positionY -20 mm
+positionZ 30 mm
+eulerPhi 90
+eulerTheta -60
+currentSupply 2
+wireDiameter 3mm
+winding 1
+nPhi 30
+loops {
+	{{20 mm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Volumetric {
+name {All_Coils}
+color 65535 65535 0
+positionZ 20 mm
+grid 50 50 50
+sizeX 170 mm
+sizeY 170 mm
+sizeZ 170 mm
+drawGrid 0
+drawFrame 1
+}

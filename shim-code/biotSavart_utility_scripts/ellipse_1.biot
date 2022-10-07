@@ -1,0 +1,443 @@
+Info {BiotSavart 4.1 data file}
+
+Current {
+name {Current}
+supplies {
+	{ {0} {0} }
+	{ {1} {0} }
+	{ {2} {0} }
+	{ {3} {0} }
+	{ {4} {0} }
+	{ {5} {0} }
+	{ {6} {0} }
+	{ {7} {0} }
+	{ {8} {0} }
+	{ {9} {0} }
+	{ {10} {0} }
+	{ {11} {0} }
+	{ {12} {0} }
+	{ {13} {0} }
+	{ {14} {0} }
+	{ {15} {0} }
+	{ {16} {0} }
+	{ {17} {0} }
+	{ {18} {0} }
+	{ {19} {0} }
+	{ {20} {0} }
+	{ {21} {0} }
+	{ {22} {0} }
+	{ {23} {0} }
+}
+}
+
+Loop {
+name {0}
+color 19660 45874 45874
+positionY 8.5 cm
+eulerPhi 180
+eulerTheta 90
+eulerPsi 180
+currentSupply 0
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {1}
+color 19660 45874 45874
+positionY 7.361215932167729 cm
+positionZ 5.999999999999999 cm
+eulerPhi 180
+eulerTheta 65
+eulerPsi 180
+currentSupply 1
+wireDiameter 3 mm
+winding 0
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {2}
+color 19660 45874 45874
+positionY 4.250000000000001 cm
+positionZ 10.392304845413264 cm
+eulerPhi 180
+eulerTheta 22.2424234085796
+eulerPsi 180
+currentSupply 2
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {3}
+color 19660 45874 45874
+positionY 5.204748896376251e-16 cm
+positionZ 12.0 cm
+currentSupply 3
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {4}
+color 19660 45874 45874
+positionY -4.249999999999998 cm
+positionZ 10.392304845413264 cm
+eulerTheta 22.2424234085796
+currentSupply 4
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {5}
+color 19660 45874 45874
+positionY -7.361215932167729 cm
+positionZ 5.999999999999999 cm
+eulerTheta 65
+currentSupply 5
+wireDiameter 3 mm
+winding 0
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {6}
+color 19660 45874 45874
+positionY -8.5 cm
+positionZ 1.4695761589768238e-15 cm
+eulerTheta 90
+currentSupply 6
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {7}
+color 19660 45874 45874
+positionY -7.361215932167728 cm
+positionZ -6.000000000000002 cm
+eulerTheta 110
+currentSupply 7
+wireDiameter 3 mm
+winding 0
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {8}
+color 19660 45874 45874
+positionY -4.2500000000000036 cm
+positionZ -10.392304845413262 cm
+eulerTheta 157.75757659142
+currentSupply 8
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {9}
+color 19660 45874 45874
+positionY -1.5614246689128753e-15 cm
+positionZ -12.0 cm
+eulerTheta 180
+currentSupply 9
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {10}
+color 19660 45874 45874
+positionY 4.250000000000001 cm
+positionZ -10.392304845413264 cm
+eulerPhi 180
+eulerTheta 157.75757659142
+eulerPsi 180
+currentSupply 10
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {11}
+color 19660 45874 45874
+positionY 7.361215932167726 cm
+positionZ -6.000000000000005 cm
+eulerPhi 180
+eulerTheta 110
+eulerPsi 180
+currentSupply 11
+wireDiameter 3 mm
+winding 0
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {12}
+color 19660 45874 45874
+positionX 6 cm
+positionY 8.5 cm
+eulerPhi 180
+eulerTheta 90
+eulerPsi 180
+currentSupply 12
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {13}
+color 19660 45874 45874
+positionX 6 cm
+positionY 7.361215932167729 cm
+positionZ 5.999999999999999 cm
+eulerPhi 180
+eulerTheta 65
+eulerPsi 180
+currentSupply 13
+wireDiameter 3 mm
+winding 0
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {14}
+color 19660 45874 45874
+positionX 6 cm
+positionY 4.250000000000001 cm
+positionZ 10.392304845413264 cm
+eulerPhi 180
+eulerTheta 40
+eulerPsi 180
+currentSupply 14
+wireDiameter 3 mm
+winding 0
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {15}
+color 19660 45874 45874
+positionX 6 cm
+positionY 5.204748896376251e-16 cm
+positionZ 12.0 cm
+currentSupply 15
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {16}
+color 19660 45874 45874
+positionX 6 cm
+positionY -4.249999999999998 cm
+positionZ 10.392304845413264 cm
+eulerTheta 22.2424234085796
+currentSupply 16
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {17}
+color 19660 45874 45874
+positionX 6 cm
+positionY -7.361215932167729 cm
+positionZ 5.999999999999999 cm
+eulerTheta 65
+currentSupply 17
+wireDiameter 3 mm
+winding 0
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {18}
+color 19660 45874 45874
+positionX 6 cm
+positionY -8.5 cm
+positionZ 1.4695761589768238e-15 cm
+eulerTheta 90
+currentSupply 18
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {19}
+color 19660 45874 45874
+positionX 6 cm
+positionY -7.361215932167728 cm
+positionZ -6.000000000000002 cm
+eulerTheta 110
+currentSupply 19
+wireDiameter 3 mm
+winding 0
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {20}
+color 19660 45874 45874
+positionX 6 cm
+positionY -4.2500000000000036 cm
+positionZ -10.392304845413262 cm
+eulerTheta 157.75757659142
+currentSupply 20
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {21}
+color 19660 45874 45874
+positionX 6 cm
+positionY -1.5614246689128753e-15 cm
+positionZ -12.0 cm
+eulerTheta 180
+currentSupply 21
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {22}
+color 19660 45874 45874
+positionX 6 cm
+positionY 4.250000000000001 cm
+positionZ -10.392304845413264 cm
+eulerPhi 180
+eulerTheta 157.75757659142
+eulerPsi 180
+currentSupply 22
+wireDiameter 3 mm
+winding 1
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}
+
+Loop {
+name {23}
+color 19660 45874 45874
+positionX 6 cm
+positionY 7.361215932167726 cm
+positionZ -6.000000000000005 cm
+eulerPhi 180
+eulerTheta 110
+eulerPsi 180
+currentSupply 23
+wireDiameter 3 mm
+winding 0
+loops {
+	{{3 cm} {0} {1}}
+}
+nZeta 10
+fluxPhiSteps 16
+}

@@ -1,0 +1,10 @@
+*.asv
+*.mat
+Martinos_Shim/coil_field_maps/*
+Martinos_Shim/outputs/*
+Martinos_Shim/outputs
+Martinos_Shim/supporting_data/*
+Martinos_Shim/__MACOSX/*
+*.gz
+experiments/*
+__pycache__/*

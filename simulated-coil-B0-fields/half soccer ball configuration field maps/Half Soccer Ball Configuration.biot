@@ -1,0 +1,429 @@
+Info {BiotSavart 4.1 data file}
+
+Current {
+name {Current}
+supplies {
+	{ {Element_1} {0} }
+	{ {Element_2} {0} }
+	{ {Element_3} {0} }
+	{ {Element_4} {0} }
+	{ {Element_5} {0} }
+	{ {Element_6} {0} }
+	{ {Element_7} {0} }
+	{ {Element_8} {0} }
+	{ {Element_9} {0} }
+	{ {Element_10} {0} }
+	{ {Element_11} {0} }
+	{ {Element_12} {0} }
+	{ {Element_13} {0} }
+	{ {Element_14} {0} }
+	{ {Element_15} {0} }
+	{ {Element_16} {0} }
+	{ {Element_17} {0} }
+	{ {Element_18} {0} }
+	{ {Element_19} {0} }
+	{ {Element_20} {0} }
+	{ {Element_21} {0} }
+	{ {Element_22} {0} }
+	{ {Element_23} {0} }
+	{ {Element_24} {0} }
+	{ {Element_25} {0} }
+	{ {Element_26} {0} }
+	{ {Element_27} {0} }
+	{ {Element_28} {0} }
+	{ {Element_29} {0} }
+	{ {Element_30} {0} }
+	{ {Element_31} {0} }
+	{ {Element_32} {1} }
+}
+}
+
+Loop {
+name {Element 1}
+color 19660 45874 45874
+positionY 0.0249
+positionZ 0.0652
+eulerTheta -20.9052
+currentSupply Element_1
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Planar {
+name {Sagittal Plane}
+color 65535 65535 0
+positionY -0.2
+positionZ -0.2
+grid 30 30
+uX 0
+uY 0.4
+uZ 0
+vX 0
+vY 0
+vZ 0.4
+plot B
+apartWindow 1
+drawGrid 1
+drawContour 1
+drawFrame 1
+}
+
+Planar {
+name {Coronal Plane}
+color 65535 65535 0
+positionX -0.2
+positionZ -0.2
+grid 30 30
+uX 0.4
+uY 0
+uZ 0
+vX 0
+vY 0
+vZ 0.4
+plot B
+apartWindow 1
+drawGrid 1
+drawContour 1
+drawFrame 1
+}
+
+Volumetric {
+name {Volume}
+visible 0
+color 65535 65535 0
+grid 50 50 50
+sizeX 0.25
+sizeY 0.25
+sizeZ 0.25
+drawGrid 1
+drawFrame 1
+}
+
+Loop {
+name {Element 2}
+color 19660 45874 45874
+positionY 0.0249
+positionZ -0.0652
+eulerTheta 20.9052
+currentSupply Element_2
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 5}
+color 19660 45874 45874
+positionX 0.0652
+positionZ 0.0249
+eulerPhi 90
+eulerTheta 69.0948
+currentSupply Element_5
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 6}
+color 19660 45874 45874
+positionX 0.0652
+positionZ -0.0249
+eulerPhi 90
+eulerTheta -69.0948
+currentSupply Element_6
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 7}
+color 19660 45874 45874
+positionX -0.0652
+positionZ 0.0249
+eulerPhi -90
+eulerTheta 69.0948
+currentSupply Element_7
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 8}
+color 19660 45874 45874
+positionX -0.0652
+positionZ -0.0249
+eulerPhi -90
+eulerTheta -69.0948
+currentSupply Element_8
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 9}
+color 19660 45874 45874
+positionX 0.0249
+positionY 0.0652
+eulerPhi -20.9052
+eulerTheta 90
+currentSupply Element_9
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 11}
+color 19660 45874 45874
+positionX -0.0249
+positionY 0.0652
+eulerPhi 20.9052
+eulerTheta 90
+currentSupply Element_11
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 13}
+color 19660 45874 45874
+positionX 0.0358
+positionZ 0.0579
+eulerPhi 90
+eulerTheta 31.7175
+currentSupply Element_13
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 14}
+color 19660 45874 45874
+positionX 0.0358
+positionZ -0.0579
+eulerPhi 90
+eulerTheta -31.7175
+currentSupply Element_14
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 15}
+color 19660 45874 45874
+positionX -0.0358
+positionZ 0.0579
+eulerPhi 90
+eulerTheta -31.7175
+currentSupply Element_15
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 16}
+color 19660 45874 45874
+positionX -0.0358
+positionZ -0.0579
+eulerPhi 90
+eulerTheta 31.7175
+currentSupply Element_16
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 17}
+color 19660 45874 45874
+positionX 0.0579
+positionY 0.0358
+eulerPhi -58.2825
+eulerTheta 90
+currentSupply Element_17
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 19}
+color 19660 45874 45874
+positionX -0.0579
+positionY 0.0358
+eulerPhi 58.2825
+eulerTheta 90
+currentSupply Element_19
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 21}
+color 19660 45874 45874
+positionY 0.0579
+positionZ 0.0358
+eulerTheta -58.2825
+currentSupply Element_21
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 22}
+color 19660 45874 45874
+positionY 0.0579
+positionZ -0.0358
+eulerTheta 58.2825
+currentSupply Element_22
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 25}
+color 19660 45874 45874
+positionX 0.0403
+positionY 0.0403
+positionZ 0.0403
+eulerPhi -45
+eulerTheta -54.7356
+currentSupply Element_25
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 26}
+color 19660 45874 45874
+positionX 0.0403
+positionY 0.0403
+positionZ -0.0403
+eulerPhi -45
+eulerTheta 54.7356
+currentSupply Element_26
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 29}
+color 19660 45874 45874
+positionX -0.0403
+positionY 0.0403
+positionZ 0.0403
+eulerPhi 45
+eulerTheta -54.7356
+currentSupply Element_29
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
+
+Loop {
+name {Element 30}
+color 19660 45874 45874
+positionX -0.0403
+positionY 0.0403
+positionZ -0.0403
+eulerPhi 45
+eulerTheta 54.7356
+currentSupply Element_30
+wireDiameter 5e-3
+winding 0
+nPhi 64
+loops {
+	{{0.022} {0} {1}}
+}
+fluxPhiSteps 64
+}
